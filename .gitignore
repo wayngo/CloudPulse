@@ -1,0 +1,21 @@
+# Binaries
+/cloudpulse
+/cloudpulse.exe
+/cloudpulse_*
+bin/
+dist/
+
+# Go test / coverage
+*.out
+*.test
+coverage.txt
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local env overrides
+.env
+.env.local

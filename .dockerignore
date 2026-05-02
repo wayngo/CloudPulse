@@ -1,0 +1,28 @@
+.git
+.gitignore
+.github
+.idea
+.vscode
+.cursor
+
+# Build outputs
+bin/
+dist/
+*.exe
+
+# Test / coverage artifacts
+*.out
+*.test
+coverage.txt
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Docs that don't need to be in the build context
+README.md
+LICENSE
+*.md
+
+Dockerfile
+.dockerignore
